@@ -6,4 +6,4 @@ let st="John smith"
 let [firstName, surname] = st.split(" ");
 
 console.log(firstName); // John
-console.log(surname);
+// console.log(surname);
